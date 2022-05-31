@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #222;
+    background: #fff;
+    font-size: 15px;
+}
+
+#toggle {
+    background-color: #222;
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+    font-size: 4px;
+    font-family: monospace;
+    margin-bottom: 3px;
+    height: 10px;
+    
+}
+
+.dark-mode {
+    color: #eee;
+    background: #121212;
+}
+
+#texto {
+    margin-top: 40px;
+    font-size: 6px;
+    font-family: monospace;
+}
+
